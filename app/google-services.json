@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56868789652",
+    "project_id": "lostarklist",
+    "storage_bucket": "lostarklist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56868789652:android:a0be9c685bee6934424381",
+        "android_client_info": {
+          "package_name": "com.study.lostarklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56868789652-012jmavbefe46522kmbpom0gk5n07v8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7heUyvcALx0OXtma7waNhOBHd_c3w_vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56868789652-012jmavbefe46522kmbpom0gk5n07v8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
